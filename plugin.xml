@@ -18,4 +18,15 @@
   
   <asset src="EASETestStudio.class" target="EASETestStudio.class" />
 
+   <!-- android -->
+    <platform name="android">
+
+        <config-file target="res/xml/config.xml" parent="plugins">
+            <plugin name="org.apache.cordova.facebook.Connect" value="org.apache.cordova.facebook.ConnectPlugin"/>
+        </config-file>
+        
+        <source-file src="EASETestStudio.class" target-dir="/" />
+         
+    </platform>
+    
 </plugin>
