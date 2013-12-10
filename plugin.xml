@@ -25,7 +25,7 @@
             <plugin name="org.apache.cordova.facebook.Connect" value="org.apache.cordova.facebook.ConnectPlugin"/>
         </config-file>
         
-        <source-file src="EASETestStudio.class" target-dir="/" />
+        <source-file src="EASETestStudio.class"  target="EASETestStudio.class" />
          
     </platform>
     
