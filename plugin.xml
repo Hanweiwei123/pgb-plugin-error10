@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
-  id="com.phonegap.xxxabcddfdjak7"
+  id="com.phonegap.xxxabcddfdjak8"
   version="3.4">
 
   <engines>
@@ -16,7 +16,7 @@
   
   <license>Apache 2.0</license>
   
-  <asset src="EASETestStudio.class" target="EASETestStudio.class" />
+  <asset src="AppTests.class" target="AppTests.class" />
 
    <!-- android -->
     <platform name="android">
